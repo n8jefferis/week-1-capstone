@@ -1,0 +1,7 @@
+C:\Users\n8jef\Desktop\Pig Latin\Pig Latin\obj\Debug\Pig Latin.csprojAssemblyReference.cache
+C:\Users\n8jef\Desktop\Pig Latin\Pig Latin\obj\Debug\Pig Latin.csproj.CoreCompileInputs.cache
+C:\Users\n8jef\Desktop\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe.config
+C:\Users\n8jef\Desktop\Pig Latin\Pig Latin\bin\Debug\Pig Latin.exe
+C:\Users\n8jef\Desktop\Pig Latin\Pig Latin\bin\Debug\Pig Latin.pdb
+C:\Users\n8jef\Desktop\Pig Latin\Pig Latin\obj\Debug\Pig Latin.exe
+C:\Users\n8jef\Desktop\Pig Latin\Pig Latin\obj\Debug\Pig Latin.pdb
